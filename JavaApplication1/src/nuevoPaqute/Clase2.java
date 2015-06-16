@@ -3,12 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package javaapplication1;
+package nuevoPaqute;
 
 /**
  *
  * @author laboratorio
  */
 public class Clase2 {
-    
+    private final String nombre = "oola";
+    protected int algo = 1;
+    public boolean otraCosa = true;
 }
